@@ -1,5 +1,5 @@
 # dotnet-extract-text
-Demonstração de como podemos extrai automaticamente textos e dados de documentos digitalizados usando o Amazon Textract.
+Demonstração prática de extração automática de textos e dados de documentos digitalizados utilizando o Amazon Textract.
 
 # Como executar:
 - Clonar / baixar o repositório em seu workplace.
